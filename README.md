@@ -6,7 +6,7 @@ C language basic questions
 
 #include <stdio.h> 
 
-  
+  //ghgyhj
 
 // Driver code 
 
