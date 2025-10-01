@@ -1,6 +1,6 @@
 # simple-c-language125
 C language basic questions 
-// C program to implement 
+ 
 
 // the above approach 
 
