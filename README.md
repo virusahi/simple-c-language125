@@ -2,7 +2,7 @@
 C language basic questions 
  
 
-// the above approach 
+//so the above approach 
 
 #include <stdio.h> 
 
